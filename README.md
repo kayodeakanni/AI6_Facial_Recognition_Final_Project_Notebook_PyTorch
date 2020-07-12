@@ -1,0 +1,2 @@
+# AI6_Facial_Recognition_Final_Project_Notebook_PyTorch
+AI6_Facial_Recognition_Final_Project_Notebook_PyTorch Notebook for face emotion recognition
